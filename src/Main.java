@@ -5,4 +5,6 @@ public class Main {
         newCircle.setVisible(true);
         newCircle.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
     }
+
+    //Fabest was here
 }
